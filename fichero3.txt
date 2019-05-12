@@ -3,5 +3,9 @@ sdfasdf
 Aritz
 Oruesagasti
 Unamuno
+<<<<<<< Updated upstream
 
 Resuelvo bug
+=======
+sadas
+>>>>>>> Stashed changes
